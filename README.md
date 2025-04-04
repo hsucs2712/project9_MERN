@@ -35,9 +35,6 @@
    npm start
    ```
 
-## 截圖
-![App Screenshot](./screenshot.png)
-
 ## 功能特點
 - 註冊與登錄功能
 - 前後端數據交互
